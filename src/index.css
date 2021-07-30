@@ -80,8 +80,8 @@ font-size: 20px;
 }
 #header .animated{
   animation: up-down 1s ease-in-out infinite alternate-reverse both;
-  height: 50%;
-  width: 80%;
+  height: 300px;
+  width: 300px;
   
 }
 
